@@ -1,0 +1,42 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System and cache directories
+.cache/
+.local/
+.pythonlibs/
+
+# Replit specific
+.upm/
+replit_zip_error_log.txt
+.config/
+.breakpoints
+
+# Binary files and libraries
+*.so
+*.so.*
+*.dll
+*.dylib
+
+# Generated files
+generated-icon.png
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Environment and dependencies
+.env
+venv/
+.venv/
+env/
+.env/
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
